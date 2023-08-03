@@ -2,7 +2,7 @@
 
 5 years ago I have worked with a startup product that aim to create a platform for IoT devices, and they have one challenge is indoor mapping.
 We did not have a really good solution on the market at that moment, so we had to use the architectural blueprint of the building on top of Leaflet.
-For each room and floor, we use BIM data together with our IoT devices to create a 3D map. It works 
+For each room and floor, we use BIM data together with our IoT devices to create a 3D map. It works.
 
 So, I'm not going to go in to details about how to build Leaflet because it's another story.
 
